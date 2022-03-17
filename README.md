@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react-redux and other frontEnd tools**
 
-- 📫 How to reach me **alline.oliveira.ol@gmail.com**
+- 📫 How to reach me **allinne.oliveira.ol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
