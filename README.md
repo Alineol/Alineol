@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Trivia game Project**
 
-- 🌱 I’m currently learning **react-redux and other frontEnd tools**
+- 🌱 I’m currently learning **react-redux and other frontend tools**
 
 - 📫 How to reach me **allinne.oliveira.ol@gmail.com**
 
