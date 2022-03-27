@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Aline</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+<img align="right" alt="me" width="500px" src="./me.png" />
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alineol" alt="alineol" /></a> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alineol" alt="alineol" /></a> </p>
+ <img alt="me" width="70px" src="./working.png" >  I’m currently working on **Trivia game Project**</img>
 
-- 🔭 I’m currently working on **Trivia game Project**
 
-- 🌱 I’m currently learning **react-redux and other frontend tools**
+ <img alt="me" width="70px" src="./learning.png">  I’m currently learning **react-redux and other frontend tools**</img>
 
-- 📫 How to reach me **allinne.oliveira.ol@gmail.com**
+
+ <img alt="me" width="70px" src="./reach.png" />  How to reach me **allinne.oliveira.ol@gmail.com**
+
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
