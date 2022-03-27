@@ -10,7 +10,7 @@
  <img alt="me" width="70px" src="./learning.png">  I’m currently learning **react-redux and other frontend tools**</img>
 
 
- <img alt="me" width="70px" src="./reach.png" />  How to reach me **allinne.oliveira.ol@gmail.com**
+ <img alt="me" width="70px" src="./reach.png" />  How to reach me: **allinne.oliveira.ol@gmail.com**
 
 
 
