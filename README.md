@@ -25,11 +25,9 @@
 
 <div>
 <a href="https://github.com/Alineol">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alineol&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alineol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="letf"src="https://github-readme-stats.vercel.app/api?username=Alineol&show_icons=true&include_all_commits=true&count_private=true"/>
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineol&show_icons=true&locale=en&layout=compact" alt="alineol" />
 </div>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineol&show_icons=true&locale=en&layout=compact" alt="alineol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alineol&" alt="alineol" /></p>
 
