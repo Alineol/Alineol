@@ -13,14 +13,16 @@
 <details>
 <summary><strong>English</strong></summary><br />
 
-  <img align="right" alt="me" width="400px" src="./me.png"/>
   <h1 align="left">Hi 👋, I'm Aline</h1>
   
-  <h3 align="left"> A passionete web developer from Brasil</h3>
+  <p align="left"> A passionete web developer from Brasil</hp>
+  <img align="right" alt="me" width="400px" src="./me.png"/>
 
-
-  <img alt="working"  width="60px" src="./working.png" >  I’m currently working on **A blog api project**</img>
-  <br>
+</br>
+</br>
+</br>
+</br>
+  <p><img alt="working"  width="60px" src="./working.png"/>  I’m currently working on <strong>A blog api project</strong> <p/>
 
 
   <img alt="learning"  width="60px" src="./learning.png">  I’m currently learning **Mysql, node.js and test with mocha**</img>
