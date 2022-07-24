@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Aline</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
-<img align="right" alt="me" width="400px" src="./me.png" />
-
-<img alt="me" width="70px" src="./working.png" >  I’m currently working on **A blog api project**</img>
-
-<img alt="me" width="70px" src="./learning.png">  I’m currently learning **Mysql, node.js and test with mocha**</img>
-
-<img alt="me" width="70px" src="./reach.png" />  How to reach me: **allinne.oliveira.ol@gmail.com**
+<details>
+  <summary>English</summary>
+    <img align="right" alt="me" width="400px" src="./me.png" />
+  <h1 align="left">Hi 👋, I'm Aline</h1>
+  
+<h3 align="left"> A passionete web developer from Brasil</h3>
 
 
+<img alt="working"  width="60px" src="./working.png" >  I’m currently working on **A blog api project**</img>
+<br>
 
 
+<img alt="learning"  width="60px" src="./learning.png">  I’m currently learning **Mysql, node.js and test with mocha**</img>
+<br>
 
-
-
+<img alt="reach" width="60px" src="./reach.png" />  How to reach me: **allinne.oliveira.ol@gmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,6 +31,7 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alineol&" alt="alineol" /></p>
+</details>
 
 
 <!--
