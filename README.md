@@ -53,7 +53,7 @@
 </details>
 
 <!--portugues-->
-<details>
+<!--<details>
   <summary><strong>Português</strong> </summary><br />
 
   <img align="right" alt="me" width="400px" src="./me.png" />
