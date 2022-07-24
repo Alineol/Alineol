@@ -1,4 +1,7 @@
-<details>
+
+<img aling="left"  alt="pensando" src="./pensando.gif" />
+
+<details aling="right">
   <summary>English</summary>
     <img align="right" alt="me" width="400px" src="./me.png" />
   <h1 align="left">Hi 👋, I'm Aline</h1>
