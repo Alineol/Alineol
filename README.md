@@ -18,7 +18,7 @@
   <p align="left"> A passionete web developer from Brasil</hp>
   <img align="right" alt="me" width="400px" src="./me.png"/>
 
-  <p>I was a kindergarten teacher for 6 years of my life. Looking for a new challenge in november 2021 I decided to start a new carreer as a web developer. In this repository you'll find projects that shows what I've been learning, it is a lot of things! Watch all my developing throuh them! Did you see something that could be done better? Show me how to do it and <strong>help me learn!</strong></p>
+  <p>I was a kindergarden teacher for 6 years of my life. Looking for a new challenge in november 2021 I decided to start a new carreer as a web developer. In this repository you'll find projects that shows what I've been learning, it is a lot of things! Watch all my developing throuh them! Did you see something that could be done better? Show me how to do it and <strong>help me learn!</strong></p>
 
 </br>
 </br>
@@ -60,11 +60,14 @@
 <details>
   <summary><strong>Português</strong> </summary><br />
 
-  <img align="right" alt="me" width="400px" src="./me.png" />
+
   <h1 align="left">Olá 👋, Eu sou Aline</h1>
   
-  <h3 align="left"> Uma desenvolvedora web apaixonada pelo que faz!</h3>
+
+  <p align="left"> Uma desenvolvedora web apaixonada pelo que faz!</hp>
+  <img align="right" alt="me" width="400px" src="./me.png"/>
   <br/>
+
   <p>Fui professora durante 6 anos da minha vida. Em busca de um novo desafio decidi em novembro de 2021 iniciar uma carreira na área de desenvolvimento web. Nesse repositório você encontrará vários projetos que demonstram o que eu tenho aprendido, é muita coisa! Acompanhe-os e veja o meu desenvolvimento!  Viu algo que pode melhorar? <strong>Me ajude aprender!</strong></p>
 
   <!--img alt="working"  width="60px" src="./working.png" > atuaemnte eu estou estudando na trybe</img-->
