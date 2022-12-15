@@ -1,5 +1,7 @@
 <p><img src=https://komarev.com/ghpvc/?username=Alineol&color=ff69b4 /></p> 
 <img align="right" src="./pensando.gif" width="250"/>
+![image](https://user-images.githubusercontent.com/92826153/207751771-30e6a850-30ad-456d-8ef5-e23479befed6.png)
+
 
 
  <!-- Inglês -->
